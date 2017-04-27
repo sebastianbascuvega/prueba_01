@@ -1,0 +1,56 @@
+html {
+  margin:0;
+  padding:0;
+}
+
+body {
+  background:url('images/fondo.jpg');
+  margin:0;
+}
+.titulo {
+  text-align:center;
+  height:500px;
+}
+.contenido {
+  padding-top:20px;
+  background-color:black;
+  color: white;
+}
+.navbar-nav {
+  float:right;
+}
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color:#cccccc;
+}
+.formulario {
+  text-align: center;
+  background-color:#4C4C4C;
+  height: 220px;
+  padding-top:30px;
+  padding-left:0;
+  padding-right:0;
+  color:white;
+}
+.formulario1 {
+  text-align: center;
+  background-color:#4C4C4C;
+  height:220px;
+  padding-top:30px;
+}
+.formulario3 {
+  text-align: center;
+  background-color:#4C4C4C;
+  height:220px;
+  padding-top:30px;
+}
+.container-fluid {
+  padding:0;
+}
+.copiright {
+ text-align:left;
+}
+.logos {
+ text-align:right;
+}
